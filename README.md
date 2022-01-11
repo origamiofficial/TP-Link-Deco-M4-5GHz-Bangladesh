@@ -26,4 +26,7 @@ Do not try to manually flash the latest version. Use the Online Upgrade method O
 The answer is NO. You're safe. Ever since 1.5.2, the country code has been embedded into the firmware. So if the original firmware supported band 4, after the firmware upgrade, the new firmware will support band 4 as well. Even if you reset the Deco, it will still have band 4.
 
 ## [Advanced] Deco Firmware Recovery When Bricked
-Never flash the latest version firmware via [recovery mode](https://www.tp-link.com/us/support/faq/2958/). You'll loose access to band 4 5GHz network again. If you somehow bricked your Deco, flash the fix firmware provided in this repository. After turning on simply upgrade to the latest version again. If you mistakenly flashed the latest firmware via recovery mode, again go to recovery mode & flash the fix firmware [untested].
+Never flash the latest version firmware via [recovery mode](https://www.tp-link.com/us/support/faq/2958/). You'll lose access to the band 4 5GHz network again. If you somehow bricked your Deco, flash the fixed firmware provided in this repository. After turning it on simply upgrade to the latest version again. If you mistakenly flashed the latest firmware via recovery mode, again go to recovery mode & flash the fixed firmware [untested].
+
+## Some Info
+[Fix Firmware](https://cutt.ly/DecoM4FixFirmware) means "1.4.3 Build 20210324 REL 63599" which is added in this repository.
