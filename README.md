@@ -20,7 +20,7 @@ First, you need to upgrade your Deco units to ["1.4.3 Build 20210324 REL 63599"]
 Do not try to manually flash the latest version. Use the Online Upgrade method ONLY after upgrading to the fixed firmware. Upgrading to fix firmware is necessary because after that the country code will be embedded. So that future Deco firmware will know they need to stick with band 4 channels. If your Deco units show as V1 then you can't upgrade to the latest version without upgrading to fix firmware first. It will never upgrade to the latest stable build. The app will show "Download > Install > Reboot". But they will never reboot actually. Again they will show the same previous version 1.4.3
 1. For the products with 1.4.1 Build 20200714 Rel. 47859 or beta 1.4.3 Build 20210324 Rel. 63599, it is OK to update to the latest 1.5.0+ version, and it will keep supporting band 4, you will also get the new features supported on the latest version.
 2. For the products with generic firmware 1.4.3 Build 20200918 Rel.74289, it is not recommended to update to the 1.5.0 directly after onboarding, please contact the local tech support to request the beta firmware that supports band 4 on 5 GHz first, then update to the latest 1.5.0+ version.
-3. If you have updated to the 1.5.0 already from the generic 1.4.3 Build 20200918 Rel.74289 and noticed that the new 1.5.0 still does not support band 4 on 5 GHz, please email support@tp-link.com with [Forum ID 269484] Deco M4 supports Band 4 on 5 GHz for Bangladesh users.
+3. If you have updated to the 1.5.0 already from the generic 1.4.3 Build 20200918 Rel.74289 and noticed that the new 1.5.0 still does not support band 4 on 5 GHz, please email support@tp-link.com with [Forum ID 269484](https://community.tp-link.com/en/home/forum/topic/269484?page=1) Deco M4 supports Band 4 on 5 GHz for Bangladesh users.
 
 ## If I Reset My Deco Units, Do I Lost Access To Band 4 Again?
 The answer is NO. You're safe. Ever since 1.5.2, the country code has been embedded into the firmware. So if the original firmware supported band 4, after the firmware upgrade, the new firmware will support band 4 as well. Even if you reset the Deco, it will still have band 4.
@@ -30,3 +30,4 @@ Never flash the latest version firmware via [recovery mode](https://www.tp-link.
 
 ## Some Info
 [Fix Firmware](https://cutt.ly/DecoM4FixFirmware) means "1.4.3 Build 20210324 REL 63599" which is added in this repository.
+[Dedicated Forum](https://community.tp-link.com/en/home/forum/topic/269484?page=1) on this topic.
