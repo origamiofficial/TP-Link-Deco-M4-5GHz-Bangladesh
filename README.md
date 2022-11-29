@@ -1,4 +1,6 @@
 # TP-Link Deco M4 5GHz Support in Bangladesh
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/origamiofficial/TP-Link-Deco-M4-5GHz-Bangladesh&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/origamiofficial/TP-Link-Deco-M4-5GHz-Bangladesh) [![Downloads](https://img.shields.io/github/downloads/origamiofficial/TP-Link-Deco-M4-5GHz-Bangladesh/firmware/total)](https://github.com/origamiofficial/TP-Link-Deco-M4-5GHz-Bangladesh/releases/tag/firmware)
+
 Now Deco M4 users can upgrade to the stable version with 5 GHz band 4 support. Here we will discuss why this is happening & how do we go to a stable version & get future updates.
 
 ## Why It's Not Working In Bangladesh?
@@ -31,5 +33,3 @@ Never flash the latest version firmware via [recovery mode](https://www.tp-link.
 ## Some Info
 [Fix Firmware](https://cutt.ly/DecoM4FixFirmware) means "1.4.3 Build 20210324 REL 63599" which is added in this repository.
 [Dedicated Forum](https://community.tp-link.com/en/home/forum/topic/269484?page=1) on this topic.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/origamiofficial/TP-Link-Deco-M4-5GHz-Bangladesh&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/origamiofficial/TP-Link-Deco-M4-5GHz-Bangladesh)
